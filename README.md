@@ -1,120 +1,57 @@
-# Thrisha Kandi - Portfolio Website
+Thrisha Kandi – Portfolio Website
 
-A modern, responsive portfolio website showcasing my skills, projects, and experience as a Computer Science student and aspiring Full-Stack Developer.
+This is my personal portfolio website where I present my skills, projects, and progress as a Computer Science student working towards becoming a Full-Stack Developer.
 
-## 🚀 Features
+About this project
 
-- **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
-- **Modern UI/UX**: Clean, professional design with smooth animations
-- **Interactive Navigation**: Smooth scrolling and active section highlighting
-- **Animated Elements**: Scroll-triggered animations and hover effects
-- **Mobile-First**: Hamburger menu for mobile navigation
-- **Fast Loading**: Optimized for performance
+I built this website to have a single place where I can showcase what I’ve learned and the projects I’ve worked on. Instead of just listing things on a resume, this helps me demonstrate them in a more practical way.
 
-## 📁 Project Structure
-
-```
+Features
+Responsive design (works on mobile, tablet, and desktop)
+Clean and simple UI
+Smooth scrolling navigation
+Sections for skills, projects, education, and experience
+Basic animations and hover effects
+Mobile navigation with hamburger menu
+Project Structure
 portfolio/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles and responsive design
-├── script.js           # JavaScript for interactivity
-└── README.md           # This file
-```
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+Technologies Used
+HTML
+CSS (Flexbox and Grid)
+JavaScript
+Font Awesome (icons)
+Google Fonts
+Sections included in the website
+Home – Introduction and role
+About – Brief background and goals
+Skills – Technical skills and tools
+Projects – Projects with description and links
+Education – Academic details
+Experience / Internship – Work or training experience
+Contact – Email, phone, and social links
+How to run the project
+Download or clone the repository
+Open index.html in any browser
+Update the content with your details
+Deploy using GitHub Pages, Netlify, or Vercel
+Customization
 
-## 🛠️ Technologies Used
+You can easily modify:
 
-- **HTML5**: Semantic markup and structure
-- **CSS3**: Modern styling with Flexbox and Grid
-- **JavaScript**: Interactive features and animations
-- **Font Awesome**: Icons for social links and contact info
-- **Google Fonts**: Inter font family for typography
+Personal information
+Skills and projects
+Colors and styles in styles.css
+Add new sections if required
+Contact
+Email: thrishakandi@gmail.com
+Phone: +91 9676457586
+Location: Gandipet, Hyderabad
+LinkedIn: (add your profile link)
+GitHub: (add your profile link)
+Why I built this
 
-## 📱 Responsive Breakpoints
-
-- **Desktop**: 1200px and above
-- **Tablet**: 768px to 1199px
-- **Mobile**: 767px and below
-
-## 🎨 Color Scheme
-
-- **Primary Blue**: #2563eb
-- **Purple Accent**: #7c3aed
-- **Gradient**: #667eea to #764ba2
-- **Text**: #1f2937 (dark), #6b7280 (light)
-- **Background**: #f8fafc (light gray)
-
-## 🚀 Getting Started
-
-1. **Clone or Download** the portfolio files
-2. **Open** `index.html` in your web browser
-3. **Customize** the content in `index.html` to match your information
-4. **Deploy** to any web hosting service (GitHub Pages, Netlify, Vercel, etc.)
-
-## 📝 Customization Guide
-
-### Updating Personal Information
-
-1. **Name and Title**: Edit the hero section in `index.html`
-2. **About Section**: Update the about content
-3. **Skills**: Modify the skills grid with your technologies
-4. **Education**: Update your educational background
-5. **Projects**: Add or modify project cards
-6. **Experience**: Update work experience details
-7. **Contact**: Update contact information and social links
-
-### Adding New Sections
-
-1. Add HTML structure in `index.html`
-2. Add corresponding CSS styles in `styles.css`
-3. Update navigation menu if needed
-4. Add any JavaScript functionality in `script.js`
-
-### Changing Colors
-
-Edit the CSS variables in `styles.css`:
-- Primary colors: `#2563eb`, `#7c3aed`
-- Gradients: Update the `linear-gradient` values
-- Background colors: Modify section background colors
-
-## 📧 Contact Information
-
-- **Email**: thrishakandi@gmail.com
-- **Phone**: +91 9676457586
-- **Location**: Gandipet, Hyderabad
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-
-## 🔧 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
-## 📈 Performance Features
-
-- Optimized images and assets
-- Efficient CSS with minimal redundancy
-- Smooth animations using CSS transforms
-- Lazy loading for better performance
-- Mobile-first responsive design
-
-## 🎯 SEO Optimized
-
-- Semantic HTML structure
-- Proper meta tags
-- Alt text for images
-- Clean URL structure
-- Fast loading times
-
-## 📄 License
-
-This portfolio template is free to use for personal and commercial projects.
-
----
-
-**Built with ❤️ by Thrisha Kandi**
-
-*Computer Science Student | Aspiring Full-Stack Developer*
-
+I wanted a simple and clean portfolio to represent my work and improve my frontend skills at the same time. This project also helped me understand responsive design and UI structuring better.
